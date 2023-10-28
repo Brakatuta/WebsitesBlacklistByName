@@ -1,4 +1,3 @@
 (
-    "www.twitch.tv",
-    "https://www.otto.de"
+    "Bubble Gum Emperors",
 )
