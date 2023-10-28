@@ -1,3 +1,3 @@
-(
-    "Bubble Gum Emperors"
+@(
+  "Bubble Gum Emperors"
 )
